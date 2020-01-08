@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>HOME on Mart Jürisoo</title>
+    <link>https://martj42.github.io/</link>
+    <description>Recent content in HOME on Mart Jürisoo</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>© Mart Jürisoo</copyright>
+    <lastBuildDate>Wed, 08 Jan 2020 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://martj42.github.io/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Fantasy Basketball Correlation Matrix</title>
+      <link>https://martj42.github.io/post/fantasy-basketball-correlation-matrix/</link>
+      <pubDate>Wed, 08 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://martj42.github.io/post/fantasy-basketball-correlation-matrix/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>International Football Results Database</title>
+      <link>https://martj42.github.io/portfolio/kaggle-football/</link>
+      <pubDate>Thu, 02 May 2019 19:47:09 +0200</pubDate>
+      
+      <guid>https://martj42.github.io/portfolio/kaggle-football/</guid>
+      <description>This is a database of every international football result ever. Or quite close to that. I created it before the 2016 World Cup when I couldn&#39;t find a simply formatted results database. So now there is one. And it&#39;s updated monthly.
+Now it is one of the most popular datasets on Kaggle. If you have a question or a comment, or want to contribute, you can do so on Kaggle or on GitHub.</description>
+    </item>
+    
+    <item>
+      <title>ABOUT</title>
+      <link>https://martj42.github.io/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://martj42.github.io/about/</guid>
+      <description>This is my about page. 👋
+Lorem ipsum dolor sit amet, 😄 consectetur adipisicing elit. Voluptates aut, tenetur distinctio voluptatibus ab. Nihil id dignissimos unde, tenetur iusto facilis suscipit corporis, ipsam necessitatibus, eaque iste deleniti consequuntur reprehenderit? 🌍</description>
+    </item>
+    
+  </channel>
+</rss>
