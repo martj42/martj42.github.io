@@ -18,7 +18,7 @@
       <pubDate>Thu, 02 May 2019 19:47:09 +0200</pubDate>
       
       <guid>https://martj42.github.io/portfolio/kaggle-football/</guid>
-      <description>This is a database of every international football result ever. Or quite close to that. I created it before the 2016 World Cup when I couldn&#39;t find a simply formatted results database.
+      <description>This is a database of every international football result ever. Or quite close to that. I created it before the 2018 World Cup when I couldn&#39;t find a simply formatted results database.
 Most of the results were scraped from two websites that don&#39;t exist anymore. Technically, obviously, all the results are out there. Just not in a neat file. But now they are. And they&#39;re updated monthly.
 It is one of the most popular datasets on Kaggle.</description>
     </item>
