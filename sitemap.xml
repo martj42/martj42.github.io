@@ -3,6 +3,27 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://martj42.github.io/</loc>
+    <lastmod>2020-01-11T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://martj42.github.io/post/</loc>
+    <lastmod>2020-01-11T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://martj42.github.io/post/tracking-the-ufc-ppv-sales/</loc>
+    <lastmod>2020-01-11T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
     <loc>https://martj42.github.io/post/fantasy-basketball-correlation-matrix/</loc>
     <lastmod>2020-01-08T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
@@ -10,21 +31,14 @@
   </url>
   
   <url>
-    <loc>https://martj42.github.io/</loc>
-    <lastmod>2020-01-08T00:00:00+00:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://martj42.github.io/post/</loc>
-    <lastmod>2020-01-08T00:00:00+00:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
     <loc>https://martj42.github.io/portfolio/kaggle-football/</loc>
+    <lastmod>2019-05-02T19:47:09+02:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://martj42.github.io/portfolio/fantasy-league-website/</loc>
     <lastmod>2019-05-02T19:47:09+02:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>

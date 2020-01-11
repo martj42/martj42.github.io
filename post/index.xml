@@ -7,10 +7,22 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>© Mart Jürisoo</copyright>
-    <lastBuildDate>Wed, 08 Jan 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 11 Jan 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://martj42.github.io/post/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Tracking The UFC PPV Sales</title>
+      <link>https://martj42.github.io/post/tracking-the-ufc-ppv-sales/</link>
+      <pubDate>Sat, 11 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://martj42.github.io/post/tracking-the-ufc-ppv-sales/</guid>
+      <description>(Click for bigger)
+With UFC moving their pay-per-view events exclusively behind ESPN&#39;s paywall in 2019 and thus ending any access to accurate sales numbers, it&#39;d be a fitting time to look back at the numbers for the whole run.
+The biggest PPV events are highlighted by text and color-grouped by the star fighter: Conor McGregor, Ronda Rousey, Brock Lesnar, Georges St. Pierre, and Jon Jones.
+The vertical dotted line marks the sell of UFC to WMG-IMG.</description>
+    </item>
     
     <item>
       <title>Fantasy Basketball Correlation Matrix</title>
@@ -18,7 +30,10 @@
       <pubDate>Wed, 08 Jan 2020 00:00:00 +0000</pubDate>
       
       <guid>https://martj42.github.io/post/fantasy-basketball-correlation-matrix/</guid>
-      <description></description>
+      <description>The matrix is based on the 2019-20 NBA season&#39;s per-game standard scores of the top 200 players.
+This could be used as a guide for possible puting strategies. There are many players with non-standard statistical contributions, however it might be a good idea to keep within stardard lines to have the biggest potential player-base and to minimize categorical waste.
+The players can be divided into 3 main groups:
+ ft-fg3m-pts-ast-stl blk-reb-fg tov  Based on actual basketball roles, the first two groups are smalls and bigs.</description>
     </item>
     
   </channel>
