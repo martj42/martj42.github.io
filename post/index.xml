@@ -7,10 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>© Mart Jürisoo</copyright>
-    <lastBuildDate>Sat, 11 Jan 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 12 Jan 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://martj42.github.io/post/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Comparing RAPTOR and RPM</title>
+      <link>https://martj42.github.io/post/comparing-raptor-and-rpm/</link>
+      <pubDate>Sun, 12 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://martj42.github.io/post/comparing-raptor-and-rpm/</guid>
+      <description>When fivethirtyeight.com launched their new all-in-one NBA player ratings before the 2019-20 season, it was very exciting, very exciting indeed. That rating is called RAPTOR.
+We can only guess how it&#39;s made or what it means but it does offer an alternative to ESPN&#39;s Real Plus-Minus, which some consider to be the best all-in-one rating. It&#39;s impossible to say which one is more &amp;ldquo;accurate&amp;rdquo; (it isn&#39;t but I shan&#39;t be doing it today) but we can compare the two rating systems in how their evaluations of players differ.</description>
+    </item>
     
     <item>
       <title>Tracking The UFC PPV Sales</title>
@@ -31,7 +41,7 @@ The vertical dotted line marks the sell of UFC to WMG-IMG.</description>
       
       <guid>https://martj42.github.io/post/fantasy-basketball-correlation-matrix/</guid>
       <description>The matrix is based on the 2019-20 NBA season&#39;s per-game standard scores of the top 200 players.
-This could be used as a guide for possible puting strategies. There are many players with non-standard statistical contributions, however it might be a good idea to keep within stardard lines to have the biggest potential player-base and to minimize categorical waste.
+This could be used as a guide for possible punting strategies. There are many players with non-standard statistical contributions, however it might be a good idea to keep within standard lines to have the biggest potential player-base and to minimize categorical waste.
 The players can be divided into 3 main groups:
  ft-fg3m-pts-ast-stl blk-reb-fg tov  Based on actual basketball roles, the first two groups are smalls and bigs.</description>
     </item>
