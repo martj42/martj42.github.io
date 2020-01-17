@@ -2,13 +2,13 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Designs on Mart Jürisoo</title>
-    <link>/designs/</link>
+    <link>https://martj42.github.io/designs/</link>
     <description>Recent content in Designs on Mart Jürisoo</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>© Mart Jürisoo</copyright>
     
-	<atom:link href="/designs/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://martj42.github.io/designs/index.xml" rel="self" type="application/rss+xml" />
     
     
   </channel>
