@@ -7,10 +7,21 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>© Mart Jürisoo</copyright>
-    <lastBuildDate>Fri, 17 Jan 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 19 Jan 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://martj42.github.io/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Finding The Challenge GOAT: Eliminations</title>
+      <link>https://martj42.github.io/post/finding-the-challenge-goat-eliminations/</link>
+      <pubDate>Sun, 19 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://martj42.github.io/post/finding-the-challenge-goat-eliminations/</guid>
+      <description>What&#39;s better than America&#39;s fourth favorite sport - Real World/Road Rules Challenge? Not many things I can think of.
+To start the search for the True Statistical Challenge GOAT, looking at the elimination challenges is a good(easy) place to go. While not the be-all and end-all, they are straightforward competitions unlike many daily and final challenges. Ignoring social and political games, these are mostly a measure of physical skill.
+Rather than looking at basic will-loss records of the eliminations, it&#39;d much more useful to make a rating system, which can be tested in its accuracy.</description>
+    </item>
     
     <item>
       <title>Most Points Scored in the NBA by Minutes Played</title>
@@ -96,16 +107,6 @@ It is one of the most popular datasets on Kaggle.</description>
       <guid>https://martj42.github.io/portfolio/kaggle-football/</guid>
       <description>This is a website tracking the NBA fantasy league I&#39;ve played in since 2006. The main reason for its creation was that most of the websites hosting fantasy games do not keep the leagues&amp;rsquo; histories.
 By now the website is does not only keep the historic records but displays all kinds of statistics of league, which has added greatly to the enjoyment of the game.</description>
-    </item>
-    
-    <item>
-      <title>ABOUT</title>
-      <link>https://martj42.github.io/about/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://martj42.github.io/about/</guid>
-      <description>This is my about page. 👋
-Lorem ipsum dolor sit amet, 😄 consectetur adipisicing elit. Voluptates aut, tenetur distinctio voluptatibus ab. Nihil id dignissimos unde, tenetur iusto facilis suscipit corporis, ipsam necessitatibus, eaque iste deleniti consequuntur reprehenderit? 🌍</description>
     </item>
     
   </channel>
