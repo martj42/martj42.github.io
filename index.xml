@@ -7,10 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>© Mart Jürisoo</copyright>
-    <lastBuildDate>Sun, 26 Jan 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 31 Jan 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>NBA Players Who Play Every Game</title>
+      <link>/post/nba-players-who-play-every-game/</link>
+      <pubDate>Fri, 31 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/post/nba-players-who-play-every-game/</guid>
+      <description>On a recent New York Knicks broadcast, the commentators lamented the fact that only 21 players played in all 82 regular season games last year. The implication being that it&#39;s not that many. But, how does it compare historically?
+So, he was right - there is a downwards trend.</description>
+    </item>
     
     <item>
       <title>Comparing NBA player and fan votes for the All-Star game</title>
