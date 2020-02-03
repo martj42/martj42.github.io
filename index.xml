@@ -7,10 +7,22 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>© Mart Jürisoo</copyright>
-    <lastBuildDate>Fri, 31 Jan 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 03 Feb 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Over and Underachieving Countries in European Soccer</title>
+      <link>/post/over-and-underachieving-countries-in-european-soccer/</link>
+      <pubDate>Mon, 03 Feb 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/post/over-and-underachieving-countries-in-european-soccer/</guid>
+      <description>An interesting thing to look at, I thought, was to see how international football teams perform when measured against how they would be expected to perform based on the nations&amp;rsquo; demographic, economic, climatic, and cultural variables.
+First, here is how the teams are rated based on the average score of the past 15 months in FIFA Rankings:
+ (blue is better, red is worse)
+Now, no surprises there - generally, the big countries in the West are strong, the smaller ones in the East are weak.</description>
+    </item>
     
     <item>
       <title>NBA Players Who Play Every Game</title>

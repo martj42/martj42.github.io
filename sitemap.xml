@@ -4,20 +4,27 @@
   
   <url>
     <loc>/</loc>
-    <lastmod>2020-01-31T00:00:00+00:00</lastmod>
+    <lastmod>2020-02-03T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>/post/nba-players-who-play-every-game/</loc>
-    <lastmod>2020-01-31T00:00:00+00:00</lastmod>
+    <loc>/post/over-and-underachieving-countries-in-european-soccer/</loc>
+    <lastmod>2020-02-03T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
     <loc>/post/</loc>
+    <lastmod>2020-02-03T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>/post/nba-players-who-play-every-game/</loc>
     <lastmod>2020-01-31T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
