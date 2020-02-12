@@ -4,7 +4,21 @@
   
   <url>
     <loc>/</loc>
-    <lastmod>2020-02-03T00:00:00+00:00</lastmod>
+    <lastmod>2020-02-11T19:47:09+02:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>/portfolio/</loc>
+    <lastmod>2020-02-11T19:47:09+02:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>/portfolio/ufc-rankings/</loc>
+    <lastmod>2020-02-11T19:47:09+02:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
@@ -54,13 +68,6 @@
   <url>
     <loc>/post/most-points-scored-in-the-nba-by-minutes-played/</loc>
     <lastmod>2020-01-17T00:00:00+00:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>/portfolio/</loc>
-    <lastmod>2020-01-13T19:47:09+02:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
