@@ -7,10 +7,23 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>© Mart Jürisoo</copyright>
-    <lastBuildDate>Tue, 11 Feb 2020 19:47:09 +0200</lastBuildDate>
+    <lastBuildDate>Tue, 18 Feb 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Game-Winning Buzzer-Beaters in the NBA</title>
+      <link>/post/game-winning-buzzer-beaters-in-the-nba/</link>
+      <pubDate>Tue, 18 Feb 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/post/game-winning-buzzer-beaters-in-the-nba/</guid>
+      <description>Basketball-reference just released a dataset of every NBA game-winning buzzer-beater ever. Let&#39;s take a closer look, then.
+A total of 772 shots. Here&#39;s the season-by-season distribution: 
+On average you would expect there to be 16.5 game-winning buzzer-beater in a 30-team 82-game season. This year&#39;s 5 is way behind the pace.
+Most of the shots have been at the rim: 
+The players to make at least five are as follows:</description>
+    </item>
     
     <item>
       <title>UFC Rankings Website</title>
