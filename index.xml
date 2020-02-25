@@ -7,10 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>© Mart Jürisoo</copyright>
-    <lastBuildDate>Tue, 18 Feb 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 25 Feb 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Rock paper scissors in the UFC</title>
+      <link>/post/rock-paper-scissors-in-the-ufc/</link>
+      <pubDate>Tue, 25 Feb 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/post/rock-paper-scissors-in-the-ufc/</guid>
+      <description>Last Saturday fella by the name of Dan Hooker beat Paul Felder in a UFC fight. Last September, Felder had beat Edson Barboza who in 2018 beat the aforementioned Dan Hooker. That, my friends, is a rock paper scissors situation.
+Counting only fights in the UFC, three fighters have wins over each other in such a way 237 times. There would be hundreds more if we were to include other fight promotions.</description>
+    </item>
     
     <item>
       <title>Game-Winning Buzzer-Beaters in the NBA</title>
