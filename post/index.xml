@@ -7,10 +7,23 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>© Mart Jürisoo</copyright>
-    <lastBuildDate>Tue, 25 Feb 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 03 Mar 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/post/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Most Outlying Scoring Performances in NBA History</title>
+      <link>/post/most-outlying-scoring-performances-in-nba-history/</link>
+      <pubDate>Tue, 03 Mar 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/post/most-outlying-scoring-performances-in-nba-history/</guid>
+      <description>Shake Milton scoring 39 points yesterday was quite an outlier from his career average of 6.2. In fact, it was such an outlier, it made me wonder if it&#39;s the biggest outlier ever.
+Spoiler: it wasn&#39;t.
+The biggest outlier ever measured in standard deviations from the players&amp;rsquo; career average was, in fact, Mario West scoring 13 while averaging 0.9 points per game.
+Here&#39;s the all-time top 50:
+   player_name matchup game_date career_ppg sd pts deviations     Mario West NJN @ PHI 2011-04-01 0.</description>
+    </item>
     
     <item>
       <title>Rock paper scissors in the UFC</title>
