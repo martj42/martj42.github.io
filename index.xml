@@ -7,10 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>© Mart Jürisoo</copyright>
-    <lastBuildDate>Tue, 03 Mar 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 02 May 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Every Survivor Episode Rating on IMDb</title>
+      <link>/post/every-survivor-episode-rating-on-imdb/</link>
+      <pubDate>Sat, 02 May 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/post/every-survivor-episode-rating-on-imdb/</guid>
+      <description>My lockdown binging show of choice has been Survivor. With 39 completed seasons, watching all of them is unlikely so I turned to trusty IMDb to see which are the good ones. So here are all the Survivor episode ratings visualised with a hard to read but thematic font.
+ (Click for bigger)</description>
+    </item>
     
     <item>
       <title>Most Outlying Scoring Performances in NBA History</title>
