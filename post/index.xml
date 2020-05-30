@@ -7,10 +7,23 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>© Mart Jürisoo</copyright>
-    <lastBuildDate>Thu, 14 May 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 30 May 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/post/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Most Popular Cities for the UFC</title>
+      <link>/post/most-popular-cities-for-the-ufc/</link>
+      <pubDate>Sat, 30 May 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/post/most-popular-cities-for-the-ufc/</guid>
+      <description>Here&#39;s a basic bar graph. Depicted are the 25 cities who&#39;ve hosted the most UFC events.
+ (Click for bigger)
+Obviously, UFC&#39;s hometown Las Vegas comes in first. Now, let&#39;s see the top cities of the last 5 years. Cities with fewer than 3 events have been filtered out.
+ (Click for bigger)
+Aside from Las Vegas, these cities could be considered to be a part of UFC&#39;s regular rotation. New York being the only other city hosting more than one event a year splitting duties between MSG in Manhattan and the Barclay&#39;s Center in Brooklyn.</description>
+    </item>
     
     <item>
       <title>The Challenge Average Cast Age</title>
