@@ -7,10 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>© Mart Jürisoo</copyright>
-    <lastBuildDate>Sat, 30 May 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 01 Jun 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>A Map of UFC Fighters by Country</title>
+      <link>/post/a-map-of-ufc-fighters-by-country/</link>
+      <pubDate>Mon, 01 Jun 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/post/a-map-of-ufc-fighters-by-country/</guid>
+      <description>Here&#39;s the world map highlighting the current UFC roster&#39;s home countries. In cases where the fighter has multiple nationalities e.g. Israel Adesanya, the one that is displayed on the UFC broadcast is used.
+ (Click for bigger)</description>
+    </item>
     
     <item>
       <title>Most Popular Cities for the UFC</title>
