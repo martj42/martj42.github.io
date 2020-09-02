@@ -7,10 +7,19 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>© Mart Jürisoo</copyright>
-    <lastBuildDate>Sat, 06 Jun 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 02 Sep 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Best Chess Players by Birth Year</title>
+      <link>/post/best-chess-players-by-birth-year/</link>
+      <pubDate>Wed, 02 Sep 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/post/best-chess-players-by-birth-year/</guid>
+      <description>(Click for bigger)</description>
+    </item>
     
     <item>
       <title>Peak Age for the Elite Chess Players</title>
@@ -124,8 +133,9 @@ The players to make at least five are as follows:</description>
       <pubDate>Tue, 11 Feb 2020 19:47:09 +0200</pubDate>
       
       <guid>/portfolio/ufc-rankings/</guid>
-      <description>This was a page that visualized and summarized the individual rankings that make up the overall UFC rankings. The aim of it was to shine a light on possibly weird decisions by the rankers.
-Since the creation of the page the UFC has hidden the individual rankings and only show the overall rankings.</description>
+      <description>This is a page that visualizes and summarizes the individual rankings that make up the overall UFC rankings.
+Unlike the official UFC rankings, all vote-receiving fighters are listed, not only the top 15.
+Note: Unfortunately, the UFC have since hid the individual rankings and only display the aggregate rankings.</description>
     </item>
     
     <item>
