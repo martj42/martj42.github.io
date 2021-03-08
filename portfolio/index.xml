@@ -2,22 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>PORTFOLIO on Mart Jürisoo</title>
-    <link>/portfolio/</link>
+    <link>https://martj42.github.io/portfolio/</link>
     <description>Recent content in PORTFOLIO on Mart Jürisoo</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>© Mart Jürisoo</copyright>
-    <lastBuildDate>Tue, 11 Feb 2020 19:47:09 +0200</lastBuildDate>
-    
-	<atom:link href="/portfolio/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <lastBuildDate>Tue, 11 Feb 2020 19:47:09 +0200</lastBuildDate><atom:link href="https://martj42.github.io/portfolio/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>UFC Rankings Website</title>
-      <link>/portfolio/ufc-rankings/</link>
+      <link>https://martj42.github.io/portfolio/ufc-rankings/</link>
       <pubDate>Tue, 11 Feb 2020 19:47:09 +0200</pubDate>
       
-      <guid>/portfolio/ufc-rankings/</guid>
+      <guid>https://martj42.github.io/portfolio/ufc-rankings/</guid>
       <description>This is a page that visualizes and summarizes the individual rankings that make up the overall UFC rankings.
 Unlike the official UFC rankings, all vote-receiving fighters are listed, not only the top 15.
 Note: Unfortunately, the UFC have since hid the individual rankings and only display the aggregate rankings.</description>
@@ -25,43 +21,43 @@ Note: Unfortunately, the UFC have since hid the individual rankings and only dis
     
     <item>
       <title>Twitter Book Bot</title>
-      <link>/portfolio/bastiat-bot/</link>
+      <link>https://martj42.github.io/portfolio/bastiat-bot/</link>
       <pubDate>Mon, 13 Jan 2020 19:47:09 +0200</pubDate>
       
-      <guid>/portfolio/bastiat-bot/</guid>
+      <guid>https://martj42.github.io/portfolio/bastiat-bot/</guid>
       <description>@TheLawByBastiat is a Twitter bot that tweets out the book The Law by Frédéric Bastiat one sentance at a time.
 It will take roughly 2 years to finish the whole book.</description>
     </item>
     
     <item>
       <title>Scott Horton Show Episode Finder</title>
-      <link>/portfolio/scott-horton/</link>
+      <link>https://martj42.github.io/portfolio/scott-horton/</link>
       <pubDate>Sun, 12 Jan 2020 19:47:09 +0200</pubDate>
       
-      <guid>/portfolio/scott-horton/</guid>
-      <description>The Scott Horton Show is the world&#39;s finest anti-war podcast/radio show that&#39;s been airing since 1999.
+      <guid>https://martj42.github.io/portfolio/scott-horton/</guid>
+      <description>The Scott Horton Show is the world&amp;rsquo;s finest anti-war podcast/radio show that&amp;rsquo;s been airing since 1999.
 Now at over 5,000 episodes, this webpage was created to help finding episodes by guest and/or the topic.
 In 2020, God willing, I will remake the page in JavaScript.</description>
     </item>
     
     <item>
       <title>International Football Results Database</title>
-      <link>/portfolio/fantasy-league-website/</link>
+      <link>https://martj42.github.io/portfolio/fantasy-league-website/</link>
       <pubDate>Mon, 02 Sep 2019 19:47:09 +0200</pubDate>
       
-      <guid>/portfolio/fantasy-league-website/</guid>
-      <description>This is a database of every international football result ever. Or quite close to that. I created it before the 2018 World Cup when I couldn&#39;t find a simply formatted results database.
-Most of the results were scraped from two websites that don&#39;t exist anymore. Technically, obviously, all the results are out there. Just not in a neat file. But now they are. And they&#39;re updated monthly.
+      <guid>https://martj42.github.io/portfolio/fantasy-league-website/</guid>
+      <description>This is a database of every international football result ever. Or quite close to that. I created it before the 2018 World Cup when I couldn&amp;rsquo;t find a simply formatted results database.
+Most of the results were scraped from two websites that don&amp;rsquo;t exist anymore. Technically, obviously, all the results are out there. Just not in a neat file. But now they are. And they&amp;rsquo;re updated monthly.
 It is one of the most popular datasets on Kaggle.</description>
     </item>
     
     <item>
       <title>Fantasy League History Website</title>
-      <link>/portfolio/kaggle-football/</link>
+      <link>https://martj42.github.io/portfolio/kaggle-football/</link>
       <pubDate>Thu, 02 May 2019 19:47:09 +0200</pubDate>
       
-      <guid>/portfolio/kaggle-football/</guid>
-      <description>This is a website tracking the NBA fantasy league I&#39;ve played in since 2006. The main reason for its creation was that most of the websites hosting fantasy games do not keep the leagues&amp;rsquo; histories.
+      <guid>https://martj42.github.io/portfolio/kaggle-football/</guid>
+      <description>This is a website tracking the NBA fantasy league I&amp;rsquo;ve played in since 2006. The main reason for its creation was that most of the websites hosting fantasy games do not keep the leagues&#39; histories.
 By now the website is does not only keep the historic records but displays all kinds of statistics of league, which has added greatly to the enjoyment of the game.</description>
     </item>
     
